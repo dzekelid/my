@@ -9,11 +9,91 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: My
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Trello - Get Boards My Preferences
+  x-api-slug: boardsidboardmyprefs-get
+  description: Get boards my preferences.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefs-get-openapi.md
+- name: Trello - Put Boards My Preferences Emailposition
+  x-api-slug: boardsidboardmyprefsemailposition-put
+  description: Put boards my preferences emailposition.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsemailposition-put-openapi.md
+- name: Trello - Put Boards My Preferences Emaillist
+  x-api-slug: boardsidboardmyprefsidemaillist-put
+  description: Put boards my preferences emaillist.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsidemaillist-put-openapi.md
+- name: Trello - Put Boards My Preferences Showlistgue
+  x-api-slug: boardsidboardmyprefsshowlistguide-put
+  description: Put boards my preferences showlistgue.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsshowlistguide-put-openapi.md
+- name: Trello - Put Boards My Preferences Show Sidebar
+  x-api-slug: boardsidboardmyprefsshowsidebar-put
+  description: Put boards my preferences show sidebar.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsshowsidebar-put-openapi.md
+- name: Trello - Put Boards My Preferences Show Sidebar Activity
+  x-api-slug: boardsidboardmyprefsshowsidebaractivity-put
+  description: Put boards my preferences show sidebar activity.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsshowsidebaractivity-put-openapi.md
+- name: Trello - Put Boards My Preferences Show Sidebar Board Actions
+  x-api-slug: boardsidboardmyprefsshowsidebarboardactions-put
+  description: Put boards my preferences show sidebar board actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsshowsidebarboardactions-put-openapi.md
+- name: Trello - Put Boards My Preferences Show Sidebarmembers
+  x-api-slug: boardsidboardmyprefsshowsidebarmembers-put
+  description: Put boards my preferences show sidebarmembers.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/boardsidboardmyprefsshowsidebarmembers-put-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://transport.for.london.unified.api.gallery.streamdata.io

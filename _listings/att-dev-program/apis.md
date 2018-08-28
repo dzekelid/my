@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-d
 x-kinRank: "8"
 x-alexaRank: "691"
 tags: My
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/apis.md
 specificationVersion: "0.14"
 apis:
@@ -292,6 +292,146 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2notificationconnectiondetails-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2notificationconnectiondetails-get-openapi.md
+- name: AT&T API - Get My Notificationconnectiondetails
+  x-api-slug: mymessagesv2notificationconnectiondetails-get
+  description: /myMessages/v2/notificationConnectionDetails
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2notificationconnectiondetails-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2notificationconnectiondetails-get-openapi.md
+- name: AT&T API - Get My Messages Messageid Parts Partid
+  x-api-slug: mymessagesv2messagesmessageidpartspartid-get
+  description: /myMessages/v2/messages/{messageId}/parts/{partId}
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesmessageidpartspartid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesmessageidpartspartid-get-openapi.md
+- name: AT&T API - Get My Messages Messageid
+  x-api-slug: mymessagesv2messagesmessageid-get
+  description: /myMessages/v2/messages/{messageId}
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesmessageid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesmessageid-get-openapi.md
+- name: AT&T API - Delete My Messages Messageid
+  x-api-slug: mymessagesv2messagesmessageid-delete
+  description: /myMessages/v2/messages/{messageId}
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesmessageid-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesmessageid-delete-openapi.md
+- name: AT&T API - Get My Messages Index Info
+  x-api-slug: mymessagesv2messagesindexinfo-get
+  description: /myMessages/v2/messages/index/info
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesindexinfo-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesindexinfo-get-openapi.md
+- name: AT&T API - Post My Messages Index
+  x-api-slug: mymessagesv2messagesindex-post
+  description: /myMessages/v2/messages/index
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesindex-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messagesindex-post-openapi.md
+- name: AT&T API - Post My Messages
+  x-api-slug: mymessagesv2messages-post
+  description: /myMessages/v2/messages
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messages-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messages-post-openapi.md
+- name: AT&T API - Get My Messages
+  x-api-slug: mymessagesv2messages-get
+  description: /myMessages/v2/messages
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messages-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messages-get-openapi.md
+- name: AT&T API - Delete My Messages
+  x-api-slug: mymessagesv2messages-delete
+  description: /myMessages/v2/messages
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messages-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2messages-delete-openapi.md
+- name: AT&T API - Get My Delta
+  x-api-slug: mymessagesv2delta-get
+  description: /myMessages/v2/delta
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  humanURL: http://att.com
+  baseURL: https://api.att.com//
+  tags: SMS, Cloud, Storage, Notifications, Voice, MMS, Stack Network, Telecommunications,
+    Media, ISP, API Provider, Telecommunications, Messages, Messages, Profiles, Service
+    API, Networks
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2delta-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/mymessagesv2delta-get-openapi.md
 x-common:
 - type: x-android-sdk
   url: https://developer.att.com/sdks-plugins/att-api-platform-sdk-for-android

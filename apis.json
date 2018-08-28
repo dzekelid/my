@@ -1,0 +1,147 @@
+{
+	"name": "Streadata.io API Gallery - My",
+	"description": "This is a repository of my APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/my.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://my.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Reverb",
+			"x-api-slug": "reverb",
+			"description": "Reverb&#8217;s mission is to connect people with meaningful content.Reverb was created to find and connect the rich associations between words, ideas, content, and people. Through our products, we enhance broader knowledge around favorite topics by surfacing interesting information readers might not uncover on their own. We make tools for content understanding at every level from the single word on up. Wordnik: Get a full view of any word you???re interested in, with definitions, example sentences, related words, tweets from Twitter, pictures from Flickr, and much more.Reverb for Publishers: Reverb for Publishers brings relevant content to web audiences and surfaces additional content for publishers.Reverb for Developers: Reverb is committed to the open-source community and is proudly contributing infrastructure software to power applications and enterprises both small and gigantic. Our involvement with the Wordnik API, Scalatra, Swagger and Atmosphere is detailed on our site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png",
+			"humanURL": "https://helloreverb.com/app",
+			"baseURL": "https://api.reverb.com//api",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/reverb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AT&T Dev Program",
+			"x-api-slug": "att-dev-program",
+			"description": "AT&T Official Site. Premium entertainment, the latest cell phones & tablets, unlimited data plans, and high-speed internet. Join the nations best network today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg",
+			"humanURL": "http://att.com",
+			"baseURL": "https:///",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS OpsWorks",
+			"x-api-slug": "aws-opsworks",
+			"description": "AWS OpsWorks is a configuration management service that uses Chef, an automation platform that treats server configurations as code. OpsWorks uses Chef to automate how servers are configured, deployed, and managed across your Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises compute environments. OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png",
+			"humanURL": "https://aws.amazon.com/opsworks/",
+			"baseURL": ":///",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/aws-opsworks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trello",
+			"x-api-slug": "trello",
+			"description": "Trusted by millions, Trello is the visual collaboration tool that creates a shared perspective on any project. Trello&rsquo;s boards, lists and cards enable you to organize and prioritize your personal and work life in a fun, flexible and rewarding way.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png",
+			"humanURL": "http://trello.com",
+			"baseURL": "https://trello.com//1",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cryptagio",
+			"x-api-slug": "cryptagio",
+			"description": "Cryptagio is a global crypto exchange, providing a simple, fast and secure way to buy, sell or trade the world&rsquo;s most eminent digital assets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28851-api-cryptagio-com.jpg",
+			"humanURL": "http://www.cryptagio.com",
+			"baseURL": "https:////",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/cryptagio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "My",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "My",
+	"include": [
+		{
+			"name": "Reverb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/reverb/apis.yaml"
+		},
+		{
+			"name": "AT&T Dev Program",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/att-dev-program/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "AWS OpsWorks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/aws-opsworks/apis.yaml"
+		},
+		{
+			"name": "Trello",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/trello/apis.yaml"
+		},
+		{
+			"name": "Cryptagio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/cryptagio/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/my/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
